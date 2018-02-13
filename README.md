@@ -1,5 +1,4 @@
-# ds-python-labs
-Data Science Python labs
+# Data Analytics With Python Labs
 
 This will be our data science python labs
 
@@ -43,7 +42,7 @@ This will open up a browser window that will allow you to open the notebooks.
 15. 04-exploration/visualize-house-sales.ipynb
 16. 05-sklearn/06-Sklearn_Introduction.ipynb
 17. 05-sklearn/06a-Sklearn_LRegression.ipynb
-18 05-sklearn/07-Sklearn_Clustering.ipynb
+18. 05-sklearn/07-Sklearn_Clustering.ipynb
 19. 05-sklearn/08-Sklearn_Classification.ipynb
 20. 06-text/1-nltk-intro.ipynb
 21. 06-text/2-analyzing-text-with-nltk.ipynb
